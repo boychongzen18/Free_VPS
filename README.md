@@ -8,6 +8,8 @@
 ![be](https://raw.githubusercontent.com/boychongzen18/Free_VPS/master/root.jpg)
 ![be](https://raw.githubusercontent.com/boychongzen18/Free_VPS/master/install.jpg)
 
+Free Code : https://medium.com/@sathishvj/qwiklabs-free-codes-gcp-and-aws-e40f3855ffdb
+
 
 My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
 
