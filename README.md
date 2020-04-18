@@ -13,7 +13,7 @@ Free Code : https://medium.com/@sathishvj/qwiklabs-free-codes-gcp-and-aws-e40f38
 
 My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
 
-Link Tutorial Windows : 
+Link Tutorial Windows : https://youtu.be/bn3m5M7-iD0
 
 My Website    : https://hackingforlive.wordpress.com
 
