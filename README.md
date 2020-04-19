@@ -10,6 +10,8 @@
 
 Free Code : https://medium.com/@sathishvj/qwiklabs-free-codes-gcp-and-aws-e40f3855ffdb
 
+Mail : https://temp-mail.org/id
+
 
 My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
 
