@@ -2,15 +2,18 @@
 
 # Author : Boychongzen aka Xroot
 
+
+Free Code : https://medium.com/@sathishvj/qwiklabs-free-codes-gcp-and-aws-e40f3855ffdb
+
+Mail : https://temp-mail.org/id
+
 # Tampilan Via Windows
 ![be](https://raw.githubusercontent.com/boychongzen18/Free_VPS/master/vps.jpg)
 # Tampilan Virtual Machine Debian
 ![be](https://raw.githubusercontent.com/boychongzen18/Free_VPS/master/root.jpg)
 ![be](https://raw.githubusercontent.com/boychongzen18/Free_VPS/master/install.jpg)
 
-Free Code : https://medium.com/@sathishvj/qwiklabs-free-codes-gcp-and-aws-e40f3855ffdb
 
-Mail : https://temp-mail.org/id
 
 
 My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
