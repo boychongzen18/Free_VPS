@@ -13,8 +13,12 @@ Mail : https://temp-mail.org/id
 ![be](https://raw.githubusercontent.com/boychongzen18/Free_VPS/master/root.jpg)
 ![be](https://raw.githubusercontent.com/boychongzen18/Free_VPS/master/install.jpg)
 
+Free VPS : https://paiza.cloud/en/
 
+Mail : https://temp-mail.org/id
 
+![be](https://raw.githubusercontent.com/boychongzen18/Free_VPS/master/scanning.jpg)
+![be](https://raw.githubusercontent.com/boychongzen18/Free_VPS/master/scanning1.jpg)
 
 My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
 
